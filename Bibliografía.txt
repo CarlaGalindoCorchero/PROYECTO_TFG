@@ -1,0 +1,77 @@
+- DESCARGA DEL PROGRAMA DE VIRTUALBOX: 
+https://www.oracle.com/es/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+
+- IMÁGENES ISO (UNA DE INTERNET Y LA OTRA DE CLASE) SE ENCUENTRAN EN MI GITHUB: 
+https://github.com/CarlaGalindoCorchero/PROYECTO_TFG
+
+- INFORMACIÓN CON RESPECTO A QUE ES ANSIBLE:
+https://ualmtorres.github.io/CursoAnsible/tutorial/
+
+- MAS INFORMACIÓN CON RESPECTO A ANSIBLE (MÓDULOS)
+https://www.redhat.com/es/topics/automation/learning-ansible-tutorial
+
+- COMO FUNCIONARÍA ANSIBLE + VAGRANT
+https://adictosaltrabajo.com/2015/09/04/creacion-de-entornos-de-integracion-con-ansible-y-vagrant/
+
+- MAS INFORMACIÓN DE ANSIBLE (PLAYBOOKS):
+https://www.arsys.es/blog/ansible
+
+- INFO QUE ES VAGRANT:
+https://www.arsys.es/blog/entorno-desarrollo-vagrant
+
+- MÁS INFO DE VAGRANT:
+https://www.deloitte.com/es/es/services/consulting/blogs/todo-tecnologia/que-es-vagrant.html
+
+- EXTRA DE INFORMACIÓN DE VAGRANT (provisioners y providers):
+https://keepcoding.io/blog/que-es-vagrant-y-para-que-sirve/
+
+- VENTAJAS DE USAR VAGRANT (no voy a sacar las desventajas):
+https://vagrantanddocker.blogspot.com/2015/06/cuales-son-sus-ventajas-y-desventajas.html
+
+- QUE ES VIRTUALBOX:
+https://www.geeknetic.es/VirtualBox/que-es-y-para-que-sirve
+
+- COMO SE HACE EL ANALISIS DAFO Y EL ANALISIS CAME
+https://cei.es/analisis-dafo-came/
+
+- CLAVES SSH INFO
+https://www.siteground.es/kb/que-es-ssh/
+
+- QUE ES VIRTUALBOX:
+https://www.oracle.com/es/virtualization/virtualbox/
+
+- QUE ES DOCKER:
+https://www.ibm.com/es-es/think/topics/docker
+
+- QUE ES VMWARE:
+https://www.purestorage.com/la/knowledge/what-is-vmware.html#:~:text=VMware%20es%20una%20empresa%20de,restricciones%20de%20su%20hardware%20f%C3%ADsico.
+
+- QUE ES MULTIPASS:
+https://ubunlog.com/multipass-el-proyecto-de-canonical-para-implementar-maquinas-virtuales/
+
+- QUE ES PUPPET:
+http://codigoelectronica.com/blog/que-es-puppet
+
+---------------------------------------------------------------------
+- TUTORIAL CONEXION SSH DE UBUNTU A WINDOWS:
+https://www.youtube.com/watch?v=wglYrT9ZRc0
+
+- INSTALAR VAGRANT EN LINUX (ANSIBLE LO PONE EN EL PRIMER LINK DEL TXT):
+https://www.youtube.com/watch?v=yGviTwD3hWM
+
+- COMO CREAR UN ARBOL DE DIRECTORIOS Y NAVEGAR POR ÉL EN LINUX
+(apuntes de clase)  y https://www.somoslibres.org/index.php/76-aprenda-linux/12186-como-crear-un-arbol-de-directorios-con-un-solo-comando-paso-a-paso#google_vignette
+
+- QUE ES UN ARCHIVO YAML 
+https://www.redhat.com/es/topics/automation/what-is-yaml
+
+- PAGINA DONDE ENCONTRAR ROLES
+https://galaxy.ansible.com/ui/standalone/roles/
+
+- PÁGINA PARA ENCONTRAR BOXES DE DESCRAGA DE IMÁGENES BASE PARA VAGRANT
+https://portal.cloud.hashicorp.com/vagrant/discover
+
+- GUÍA DE COMANDOS DE VAGRANT (PARA LAS MÁQUINAS)
+https://www.busindre.com/guia_rapida_de_vagrant
+
+
